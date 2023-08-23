@@ -8,12 +8,7 @@ Calculate the remaining number of years until reaching the socially acceptable d
 Supports both Portuguese (Brazil) and English languages.
 User-friendly menu for selecting the desired language.
 Algorithm
-The app utilizes a straightforward algorithm to assess dating suitability by applying the "half your age plus 7" rule. The formula is applied as follows:
-
-makefile
-Copy code
-minimum_dating_age = (your_age / 2) + 7
-The app then compares the calculated minimum dating age with the other person's age to provide an assessment.
+The app utilizes a straightforward algorithm to assess dating suitability by applying the "half your age plus 7" rule.
 
 Getting Started
 Install Python on your computer.
@@ -51,12 +46,7 @@ Calcule o número de anos restantes até atingir a idade de namoro socialmente a
 Suporta os idiomas Português (Brasil) e Inglês.
 Menu intuitivo para selecionar o idioma desejado.
 Algoritmo
-O aplicativo utiliza um algoritmo simples para avaliar a adequação para namoro com base na regra "a metade da sua idade mais 7". A fórmula é aplicada da seguinte forma:
-
-makefile
-Copy code
-idade_minima_namoro = (sua_idade / 2) + 7
-O aplicativo então compara a idade mínima calculada para namoro com a idade da outra pessoa para fornecer uma avaliação.
+O aplicativo utiliza um algoritmo simples para avaliar a adequação para namoro com base na regra "a metade da sua idade mais 7". 
 
 Primeiros Passos
 Instale o Python em seu computador.
